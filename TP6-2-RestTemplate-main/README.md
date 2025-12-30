@@ -163,8 +163,7 @@ Exemple de workflow
 
 ## 👥 Auteurs 
 
-Anas KRIR — Implémentation & intégration du Back <br/>
-Adam EL YOURI — Collaboration / UI & intégration du Front
+Mallouk Mohammed Taha 
 
 ---
 
